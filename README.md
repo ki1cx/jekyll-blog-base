@@ -66,7 +66,7 @@ Static site is generated under _site/ folder. You can host this in using AWS for
 
 Github Pages offers a way to host Jekyll blogs with just your github account. 
 
-- Create a repo with name "<github handle>.github.io"
+- Create a repo with name "\<github handle\>.github.io"
 - Upload a clone of this repo
 - Go to settings
 ![settings](screenshot2.png)
